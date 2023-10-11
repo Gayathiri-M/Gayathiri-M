@@ -3,8 +3,7 @@
 - 🌱 I can currently do good front end development in web devolpment and intermediate level Software development.
 - 🌱 I’m currently learning Angular , React and PHP & to improve my skills in full stack development
 - 💞️ I’m looking to collaborate and to learn on any type of software and web development
-- 📫 How to reach me 
-    -Mail me - muralitharan10655@usci.ruh.ac.lk
+
 
 <!---
 Gayathiri-M/Gayathiri-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
